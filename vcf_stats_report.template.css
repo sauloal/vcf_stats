@@ -10,3 +10,5 @@ div.lbl2     { font-size: 150%; margin-left:  0px; }
 div.filename { position: absolute; top:    30px; left:  0px; z-index: -1; width: 100%; visibility: hidden }
 div#footer   { position: fixed;    bottom:  0px; right: 0px; z-index: -1; }
 div#header   { position: absolute; top:     0px; left:  0px; z-index: -1; }
+
+
